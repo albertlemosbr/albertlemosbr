@@ -1,7 +1,6 @@
 English Version
 - 👋 Hi, I’m @albertlemosbr or just Albert
 - 👀 I’m interested in backend tecnologies like C#, Node.js, Python
-- 🌱 I’m currently learning about message broker systems like rabbitMQ
 - 💞️ I’m looking to collaborate on open source projects in soon
 - 📫 How to reach me: just send a e-mail to albert.bit8@gmail.com or on instagram @albertb8
 
@@ -9,7 +8,6 @@ English Version
 Versão em Português
 - 👋 Olá sou @albertlemosbr ou apenas Albert
 - 👀 Estou interessado em tecnologias backend como C#, Node.js, Python
-- 🌱 Atualmente estou aprendendo sobre sistemas de mensageria como rabbitMQ
 - 💞️ Estou querendo coloborar em projetos open source em breve
 - 📫 Para me encontrar basta enviar um e-mail para albert.bit8@gmail.com ou no instagram @albertb8
 
